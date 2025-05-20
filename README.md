@@ -76,5 +76,5 @@ This project highlights my ability to work with batch data processing, build reu
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-deshmukh-543704154) *(update if needed)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-deshmukh-543704154) 
 - 🧠 [GitHub Profile](https://github.com/AishwaryaSolunke))
